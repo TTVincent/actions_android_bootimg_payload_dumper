@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.4.28/miui_ALIOTH_21.4.28_1f0f77d4e4_11.0.zip
+  ROM_URL: https://bigota.d.miui.com/V12.5.3.0.RKICNXM/miui_RENOIR_V12.5.3.0.RKICNXM_53350fda17_11.0.zip
   TZ: Asia/Shanghai
 
 jobs:
